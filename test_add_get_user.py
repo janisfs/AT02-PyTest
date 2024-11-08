@@ -1,5 +1,5 @@
 import pytest
-from main_3 import init_db, add_user, get_user
+from add_get_user import init_db, add_user, get_user
 
 
 @pytest.fixture

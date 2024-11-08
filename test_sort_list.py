@@ -1,5 +1,5 @@
 import pytest
-from main_2 import sort_list  # import the function to be tested
+from sort_list import sort_list  # import the function to be tested
 
 
 def test_sort_list_ascending():
